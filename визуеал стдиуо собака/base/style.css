@@ -1,0 +1,55 @@
+
+header {
+    color:rgb(197, 209, 219)
+}
+@font-face {
+    font-family: 'person';
+    src: url(fonts/person.ttf);
+}
+@font-face {
+    font-family: 'potato';
+    src: url(fonts/potato.ttf);
+}
+	  body {
+         background:
+			linear-gradient(rgb(49, 38, 53), rgb(13, 17, 22)),
+			url("");
+			background-repeat: no-repeat;
+         background-attachment:fixed;
+         background-position: center;
+         background-size: cover;
+	  }
+      .link {
+        text-decoration: none;
+      }
+      h1 , h2 , body{
+        color:rgb(163, 175, 185)
+      }
+      h1 {
+        font-size: 30px;
+    }
+    .center-both {
+        position: relative;
+        border: solid rgb(0, 0, 0);
+        height: 150px;
+      }
+      P { text-align: center }
+      H1 , h2 { text-align: center }
+     h1 {
+        font-family: 'person', sans-serif;
+        font-size: 4em;
+      }
+      h2 , body{
+        font-family: 'potato', sans-serif;
+        font-size: 2em;
+      }
+      header { text-align: center }
+      body { text-align: center }
+      body {
+        background: url(zverx.png);
+      }
+
+    body{
+      text-shadow: 0px 0px 30px rgb(61, 60, 61);
+
+    }
