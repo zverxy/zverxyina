@@ -1,2 +1,2 @@
 # zverxy.Adapter
-cucumber
+zverxyAdapter.github.io
