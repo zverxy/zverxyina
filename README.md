@@ -1,2 +1,2 @@
-# zverxyina
+# zverxy.Adapter
 cucumber
